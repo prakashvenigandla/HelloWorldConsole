@@ -1,12 +1,20 @@
 ﻿<Properties StartupConfiguration="{C0A5F400-0FA0-444D-9CBB-F8F9530094F5}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldConsole/Program.cs">
+    <Files>
+      <File FileName="HelloWorldConsole/Program.cs" Line="9" Column="21" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorldConsole" expanded="True">
-            <Node name="HelloWorldConsole" expanded="True" selected="True" />
+            <Node name="HelloWorldConsole" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

@@ -1,0 +1,15 @@
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/bin/Debug/net5.0/HelloWorldConsole.deps.json
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/bin/Debug/net5.0/HelloWorldConsole.runtimeconfig.json
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/bin/Debug/net5.0/HelloWorldConsole.runtimeconfig.dev.json
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/bin/Debug/net5.0/HelloWorldConsole.dll
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/bin/Debug/net5.0/ref/HelloWorldConsole.dll
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/bin/Debug/net5.0/HelloWorldConsole.pdb
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.csprojAssemblyReference.cache
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.AssemblyInfoInputs.cache
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.AssemblyInfo.cs
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.csproj.CoreCompileInputs.cache
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.dll
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/ref/HelloWorldConsole.dll
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.pdb
+/Users/prakashvenigandla/Documents/GitHub/HelloWorldConsole/HelloWorldConsole/obj/Debug/net5.0/HelloWorldConsole.genruntimeconfig.cache
